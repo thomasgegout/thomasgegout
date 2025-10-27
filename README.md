@@ -1,26 +1,22 @@
-<h1 align="center">Hi there! 👋 I'm Thomas</h1>
+<h1 align="center">Hi there! 👋</h1>
 
 <h2>🚀 About Me</h2>
 <p>
-  I'm a French engineering student at <strong>CentraleSupélec</strong> (Université Paris-Saclay, France), pursuing a Master’s degree in Computer Science and Artificial Intelligence. 👨‍🎓  
+  French engineering student at <strong>CentraleSupélec</strong> passionate about <strong>machine learning</strong>, <strong>deep learning</strong>, and <strong>applied mathematics</strong>.  
   <br><br>
-  I’m passionate about <strong>machine learning, deep learning, and applied mathematics</strong>, and I enjoy building intelligent systems that connect algorithms with real-world applications.  
+  <strong>Machine Learning Engineer Intern</strong> at <strong>Docugami</strong> (Aug 2025 – Feb 2026).  
   <br><br>
-  From <strong>August 2025 to February 2026</strong>, I will work at <strong>Docugami</strong> as a Machine Learning Engineer Intern, focusing on diffusion models for object detection and image-to-image generation.  
-  I also collaborated with companies such as <strong>Thales</strong> and <strong>Bel</strong> through the Paris Digital Lab, developing AI prototypes and recommendation tools.  
-  <br><br>
-  Beyond academics, I serve as <strong>Vice President of Training and Education</strong> for the AI Association “Automatants,” where I organize AI hackathons and lead workshops on GANs, diffusion models, and transformers.  
 </p>
 
 <hr>
 
 <h2>🛠️ Projects</h2>
 <ul>
-  <li><strong>⚙️ Table Structure Recognition (Docugami)</strong> — Pre-trained and fine-tuned diffusion-based models for table structure recognition and Stable Diffusion for image-to-image table layout generation.</li>
-  <li><strong>🤖 Cryptocurrency Price Predictor</strong> — Built an RNN/LSTM model leveraging sentiment analysis on expert tweets to forecast cryptocurrency trends.</li>
-  <li><strong>🌍 Machine Learning Competition</strong> — Designed a model for geographic area classification using Random Forest and XGBoost, with advanced feature engineering.</li>
-  <li><strong>🚚 Delivery Robot System</strong> — Developed a computer vision pipeline for a mobile delivery robot prototype.</li>
-  <li><strong>🧬 Liver Cancer Classification</strong> — Applied statistical learning and deep learning methods for medical image classification.</li>
+  <li><strong>⚙️ Table Structure Recognition (Docugami)</strong> — Pre-trained and fine-tuned diffusion-based models for table structure recognition and Stable Diffusion for image-to-image table layout generation, for instance <a href="https://github.com/thomasgegout/DiffusionDet">DiffusionDet</a> </li> 
+  <li><strong>🤖 <a href="https://github.com/thomasgegout/CryptoProphet">Cryptocurrency Price Predictor</a></strong> — Built an RNN/LSTM model leveraging sentiment analysis on expert tweets to forecast cryptocurrency trends.</li>
+  <li><strong>🌍 <a href="https://github.com/thomasgegout/kaggle_ml">Machine Learning Competition</a> </strong> — Designed a model for geographic area classification using Random Forest and XGBoost, with advanced feature engineering.</li>
+  <li><strong>✨ <a href="https://github.com/thomasgegout/AIProjects"> AI association - Automatants </a></strong> — Did some hackathons and projects with Automatants.</li>
+  
 </ul>
 
 <hr>
@@ -48,15 +44,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
 </p>
-
-<hr>
-
-<h2>📚 Education</h2>
-<ul>
-  <li><strong>CentraleSupélec</strong> – Master of Engineering, Computer Science (2023–2026)  
-  Courses: Machine Learning, HPC, Statistics, Information Theory, AI Systems</li>
-  <li><strong>Lycée Pierre de Fermat</strong> – Preparatory Classes in Maths, Physics, and Computer Science (2021–2023)</li>
-</ul>
 
 <hr>
 
