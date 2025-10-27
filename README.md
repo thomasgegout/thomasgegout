@@ -15,7 +15,7 @@
   <li><strong>⚙️ Table Structure Recognition</strong> — Pre-trained and fine-tuned diffusion-based models for table structure recognition (for instance <a href="https://github.com/thomasgegout/DiffusionDet">DiffusionDet</a>) and Stable Diffusion for image-to-image table layout generation. </li>
   <li><strong>🤖 <a href="https://github.com/thomasgegout/CryptoProphet">Cryptocurrency Price Predictor</a></strong> — Built an RNN/LSTM model leveraging sentiment analysis on expert tweets to forecast cryptocurrency trends.</li>
   <li><strong>🌍 <a href="https://github.com/thomasgegout/kaggle_ml">Machine Learning Competition</a> </strong> — Designed a model for geographic area classification using Random Forest and XGBoost, with advanced feature engineering.</li>
-  <li><strong>✨ AI association - Automatants </strong> — Did some <a href="https://github.com/thomasgegout/AIProjects"> hackathons and projects </a>with Automatants.</li>
+  <li><strong>✨ AI association - Automatants </strong> — Did some <a href="https://github.com/thomasgegout/AIProjects">hackathons and projects</a> with Automatants.</li>
   
 </ul>
 
