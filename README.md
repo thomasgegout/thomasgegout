@@ -57,7 +57,3 @@
 </p>
 
 <hr>
-
-<p align="center">✨ Analytical • Innovative • Diligent ✨<br>
-AI enthusiast | Deep learning explorer | Engineering student @ CentraleSupélec</p>
-
