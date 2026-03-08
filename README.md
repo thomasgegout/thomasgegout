@@ -6,7 +6,6 @@
   <br><br>
   <strong>Machine Learning Intern</strong> at <strong>Docugami</strong> (Aug 2025 – Feb 2026).  
   <br><br>
-  <br><br>
   <strong>AI Research Intern</strong> at <strong>Barnacle Labs</strong> (March 2026 – August 2026).  
   <br><br>
 </p>
