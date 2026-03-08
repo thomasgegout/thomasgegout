@@ -4,7 +4,10 @@
 <p>
   French engineering student at <strong>CentraleSupélec</strong> passionate about <strong>machine learning</strong>, <strong>deep learning</strong>, and <strong>applied mathematics</strong>.  
   <br><br>
-  <strong>Machine Learning Engineer Intern</strong> at <strong>Docugami</strong> (Aug 2025 – Feb 2026).  
+  <strong>Machine Learning Intern</strong> at <strong>Docugami</strong> (Aug 2025 – Feb 2026).  
+  <br><br>
+  <br><br>
+  <strong>AI Research Intern</strong> at <strong>Barnacle Labs</strong> (March 2026 – August 2026).  
   <br><br>
 </p>
 
